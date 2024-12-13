@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:movies/cores/util/assets_manager.dart';
 import 'package:movies/cores/util/colors_manager.dart';
 import 'package:movies/cores/util/routes_manager.dart';
-import 'package:movies/my_theme/app_styles.dart';
+import 'package:movies/config/app_styles.dart';
 class Splash extends StatefulWidget {
   const Splash({super.key});
 
